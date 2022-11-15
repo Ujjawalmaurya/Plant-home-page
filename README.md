@@ -2,4 +2,4 @@
 
 ![Thumbnail](./thumbnail.png)
 
-# [Deployed Link]()
+# [Deployed Link](https://ujjawalmaurya.github.io/Plant-home-page/)
